@@ -11,6 +11,7 @@ public class Test {
         StringUtils.isBlank(null);
 
         StringUtils.isNotBlank(null);
+        //git 修改测试
 
     }
 }
